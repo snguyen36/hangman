@@ -1,0 +1,5 @@
+book: pages bound together
+apple: a red fruit
+snake: limbless reptile
+zombie: undead person
+house: building in which people live

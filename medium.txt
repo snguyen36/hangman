@@ -1,0 +1,5 @@
+knowledge: facts, information, and skills
+strength: being physically strong
+oxygen: life-supporting gas
+agenda: a list of items to be discussed
+government: governing body of a nation, state, or community
